@@ -1,0 +1,13 @@
+# Ignore large datasets
+*.csv
+*.zip
+
+# Ignore Python/Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Ignore OS specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
